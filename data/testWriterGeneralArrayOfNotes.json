@@ -1,0 +1,27 @@
+[
+    {
+        "texts": [],
+        "title": "CPSC 210 Notes",
+        "group": "",
+        "tags": []
+    },
+    {
+        "texts": [
+            {"text": "Hello!"},
+            {"text": "Today's Lecture will include ... "},
+            {"text": "Have a good weekend!"}
+        ],
+        "title": "Math 101",
+        "group": "University Notes",
+        "tags": [
+            {
+                "notes": [{"note": "Math 101"}],
+                "name": "Important"
+            },
+            {
+                "notes": [{"note": "Math 101"}],
+                "name": "Class Notes"
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "notes": [],
+        "name": "Term 1 Notes",
+        "tags": []
+    },
+    {
+        "notes": [
+            {
+                "texts": [],
+                "title": "CPSC 210 Notes",
+                "group": "Term 2 Notes",
+                "tags": [
+                    {
+                        "notes": [
+                            {"note": "CPSC 210 Notes"},
+                            {"note": "MATH 101 Notes"}
+                        ],
+                        "name": "Important"
+                    },
+                    {
+                        "notes": [
+                            {"note": "CPSC 210 Notes"},
+                            {"note": "MATH 101 Notes"}
+                        ],
+                        "name": "Class Notes"
+                    }
+                ]
+            },
+            {
+                "texts": [
+                    {"text": "Hello!"},
+                    {"text": "Today's Lecture will include ... "},
+                    {"text": "Have a good weekend!"}
+                ],
+                "title": "MATH 101 Notes",
+                "group": "Term 2 Notes",
+                "tags": [
+                    {
+                        "notes": [
+                            {"note": "CPSC 210 Notes"},
+                            {"note": "MATH 101 Notes"}
+                        ],
+                        "name": "Important"
+                    },
+                    {
+                        "notes": [
+                            {"note": "CPSC 210 Notes"},
+                            {"note": "MATH 101 Notes"}
+                        ],
+                        "name": "Class Notes"
+                    }
+                ]
+            }
+        ],
+        "name": "Term 2 Notes",
+        "tags": [
+            {
+                "notes": [
+                    {"note": "CPSC 210 Notes"},
+                    {"note": "MATH 101 Notes"}
+                ],
+                "name": "Important"
+            },
+            {
+                "notes": [
+                    {"note": "CPSC 210 Notes"},
+                    {"note": "MATH 101 Notes"}
+                ],
+                "name": "Class Notes"
+            }
+        ]
+    }
+]

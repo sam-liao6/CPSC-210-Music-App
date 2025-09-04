@@ -1,0 +1,14 @@
+[
+    {
+        "notes": [],
+        "name": "Important"
+    },
+    {
+        "notes": [
+            {"note": "CPSC 210 Notes"},
+            {"note": "MATH 101 Notes"},
+            {"note": "PHIL 220 Notes"}
+        ],
+        "name": "Class Notes"
+    }
+]
